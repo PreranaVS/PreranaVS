@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2722F7&width=435&lines=%22Learning%2C+and+Analyzing%2C+Data+to+uncover%2C+Insights.%22" alt="Typing SVG" /></a><h1 align="center">Hi there 👋 I'm Prerana V</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2722F7&width=435&lines=%22Analyzing%2C+Learning%2C+and+Exploring.%22" alt="Typing SVG" /></a><h1 align="center">Hi there 👋 I'm Prerana V</h1>
 <h3 align="center">A passionate Data Science student from Bangalore, dedicated to uncovering insights and advancing in the Data Science field.</h3>
 
 - 🌱 I’m currently learning **Data Science, SQL, PowerBI**
