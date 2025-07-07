@@ -5,10 +5,8 @@
 - 💬 Ask me about **Python, Data visualization, Statistics, Python Libraries**
 - 📫 How to reach me **preranavs1812@gmail.com**
 - 📄 Know about my experiences [resume]
-
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FIamdivyak&psig=AOvVaw3CpqayYT6RE4TZjeeecHcn&ust=1751972610464000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIjA0ujMqo4DFQAAAAAdAAAAABAE">
-
-
+<img align="right" alt="coding" width="400" 
+src="https://camo.githubusercontent.com/a64406d40f127132bd016fdefa29c0fc8af84704c9d18e0a326918804bb68c59/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f31312f39362f38392f31313936383964326638616535303035333530316166623431393065323366362e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=furkhan07&label=Profile%20views&color=0e75b6&style=flat" alt="furkhan07" /> </p>
 
