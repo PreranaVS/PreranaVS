@@ -15,7 +15,7 @@ src="https://camo.githubusercontent.com/a64406d40f127132bd016fdefa29c0fc8af84704
 <a href="https://linkedin.com/in/prerana-v1812" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Furkhan Adoni" height="30" width="40" />
 </a>
-<a href="https://www.instagram.com/furkhan5986?igsh=bm1nN2R3bHZxNW9u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="furkhan_5986" height="30" width="40" /></a>
+<a href="https://www.instagram.com/furyperi?igsh=enZvc2dqOGFuZzd0&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="furkhan_5986" height="30" width="40" /></a>
 </p>
 
 
