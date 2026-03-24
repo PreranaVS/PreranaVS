@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2722F7&width=435&lines=%22Analyzing%2C+Modeling%2C+and+Exploring.%22" alt="Typing SVG" /></a><h1 align="center">Hi there 👋 I'm Prerana V</h1>
-<h3 align="center">A passionate Data Science student from Bangalore, dedicated to uncovering insights and advancing in the Data Science field.</h3>
+<h3 align="center">Data Science graduate from Bangalore, passionate about transforming data into actionable insights and real-world solutions.</h3>
 
 - 🎓 Data Science Graduate (2025)
 - ⚡ Proficient in **Python, SQL, Power BI, Machine Learning**
